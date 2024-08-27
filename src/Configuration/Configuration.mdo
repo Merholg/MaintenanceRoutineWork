@@ -38,4 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Периоды</catalogs>
+  <catalogs>Catalog.Системы</catalogs>
 </mdclass:Configuration>

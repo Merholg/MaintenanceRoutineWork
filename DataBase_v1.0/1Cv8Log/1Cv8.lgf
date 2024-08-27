@@ -12,4 +12,16 @@
 {4,"_$InfoBase$_.DBConfigUpdate",5},
 {4,"_$Access$_.Access",6},
 {3,"1CV8",2},
-{3,"1CV8C",3}
+{3,"1CV8C",3},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,5297274b-e97e-447c-8c6b-7feae4cdc50c,"",1},
+{5,5cabadf7-e5df-462f-9b4a-43cd6fd33517,"",2},
+{3,"BackgroundJob",4},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,5cabadf7-e5df-462f-9b4a-43cd6fd33517,"Справочник.Системы",2},
+{4,"_$Transaction$_.Commit",10},
+{4,"_$InfoBase$_.ConfigUpdate",11},
+{5,92ca6fde-d843-4412-a0b6-2961bb0e7ddb,"",3},
+{5,92ca6fde-d843-4412-a0b6-2961bb0e7ddb,"Справочник.Периоды",3},
+{4,"_$Data$_.Update",12}
