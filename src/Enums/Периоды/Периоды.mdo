@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc075f33-b92a-4a71-8b2f-50cbf1eef014">
+  <producedTypes>
+    <refType typeId="1b617584-6f21-4e27-8811-a488ad3d960a" valueTypeId="1afbff7d-d280-4e32-8b97-3b7fb325b632"/>
+    <listType typeId="f479e1ef-a528-485b-9686-f3b77a810be3" valueTypeId="20acebad-c07d-43f3-acf4-2416f490e5c5"/>
+    <managerType typeId="ab44a233-a27b-47d2-9c5b-46cd5bf81760" valueTypeId="b5bab8e1-569c-4c6b-9505-5669f4c67c53"/>
+  </producedTypes>
+  <name>Периоды</name>
+  <synonym>
+    <key>ru</key>
+    <value>Периоды</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="a44929a1-ead0-4d2e-90d2-74c4ff32317b">
+    <name>ПоЗаявкам</name>
+    <synonym>
+      <key>ru</key>
+      <value>По заявкам</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="4896ae07-ead5-493b-b197-5f0ac8ca192c">
+    <name>разВнескМесяцев</name>
+    <synonym>
+      <key>ru</key>
+      <value>Раз в несколько Месяцев</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6eaa16db-36eb-4d5a-a4a0-d8eeb5ff59ca">
+    <name>разВНеделю</name>
+    <synonym>
+      <key>ru</key>
+      <value>Раз в Неделю</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2d7f6811-ee8c-417c-8ae9-026edef7b947">
+    <name>разВДень</name>
+    <synonym>
+      <key>ru</key>
+      <value>Раз в День</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
