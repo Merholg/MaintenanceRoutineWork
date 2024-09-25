@@ -38,4 +38,6 @@
 {5,9a1e50b9-4bc6-4fb6-937f-84baa231b5b1,"Справочник.Комплектующие",7},
 {4,"_$Data$_.Delete",15},
 {4,"_$Job$_.Start",16},
-{4,"_$Job$_.Finish",17}
+{4,"_$Job$_.Finish",17},
+{4,"_$InfoBase$_.DumpStart",18},
+{4,"_$InfoBase$_.DumpFinish",19}
