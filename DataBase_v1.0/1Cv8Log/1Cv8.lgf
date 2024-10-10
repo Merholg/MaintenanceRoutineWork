@@ -40,4 +40,6 @@
 {4,"_$Job$_.Start",16},
 {4,"_$Job$_.Finish",17},
 {4,"_$InfoBase$_.DumpStart",18},
-{4,"_$InfoBase$_.DumpFinish",19}
+{4,"_$InfoBase$_.DumpFinish",19},
+{5,8568f86d-8a9d-48d3-9dce-18cc60c3c989,"РегистрСведений.РаботыПоКонструкциям",8},
+{4,"_$Transaction$_.Rollback",20}
